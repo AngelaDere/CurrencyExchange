@@ -10,10 +10,10 @@ The program also saves information about time the code is started and the runtim
 * Clone this git repository
 * `cd` into the root directory of the repo
 
-#### Build docker image
+### Build docker image
 * Run `docker image build -t python-exchanger .`
 
-#### Run docker image as a container
+### Run docker image as a container
 * Run `docker run --name python-exchanger-container python-exchanger`
 
 ### Obtain csv file
