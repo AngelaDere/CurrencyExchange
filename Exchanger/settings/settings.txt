@@ -1,0 +1,2 @@
+export API=http://api.currencylayer.com/live
+export API_KEY=dcce52b628ffe9863e1d3c7a2497383d
